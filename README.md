@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
 <!--
 **marcelomoniz/marcelomoniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
