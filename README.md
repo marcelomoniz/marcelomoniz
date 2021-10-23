@@ -1,4 +1,4 @@
-# skills
+# Skills
 <!--h3 align="left">Languages and Tools:</h3-->
 ## Languages and Tools
 ### Databases
@@ -8,7 +8,6 @@
 </p>
 
 ### Devops
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  
 </a> 
