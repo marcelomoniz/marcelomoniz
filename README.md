@@ -15,12 +15,11 @@
 </a> 
 </p>
 
-
-
 <!-- 
 geradores
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://arturssmirnovs.github.io/github-profile-readme-generator/
+https://www.youtube.com/watch?v=9RZblj1uQ_0
 -->
 
 <!--
