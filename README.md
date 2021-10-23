@@ -17,6 +17,11 @@
 
 
 
+<!-- 
+geradores
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://arturssmirnovs.github.io/github-profile-readme-generator/
+-->
 
 <!--
 **marcelomoniz/marcelomoniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
