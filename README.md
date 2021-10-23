@@ -1,3 +1,5 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcelomoniz) https://github.com/marcelomoniz
+
 # Skills
 <!--h3 align="left">Languages and Tools:</h3-->
 ## Languages and Tools
@@ -13,7 +15,7 @@
 </a> 
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcelomoniz) https://github.com/marcelomoniz
+
 
 
 <!--
