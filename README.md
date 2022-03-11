@@ -1,7 +1,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcelomoniz) https://github.com/marcelomoniz
 <br/>
 <br/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcelo-moniz-8ba21ba2/) https://www.linkedin.com/in/marcelo-moniz-8ba21ba2/ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/marcelo-moniz) www.linkedin.com/in/marcelo-moniz
 
 # Skills
 <!--h3 align="left">Languages and Tools:</h3-->
