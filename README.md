@@ -35,7 +35,6 @@
 <a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> 
   <img src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="picoCTF" width="40" height="40"/> 
   <img src="https://picoctf.org/img/logos/ini.png" alt="picoCTF" width="154" height="40"/>
-  CTF (Capture The Flag) by Carnegie Mellon University
 </a> 
 </p>
 
