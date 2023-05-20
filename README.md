@@ -32,14 +32,12 @@
 ## Cybersecurity
 ### CTF (Capture The Flag)
 <p align="left"> 
-<a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> 
-  <img src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="picoCTF" width="40" height="40"/> 
-  <img src="https://picoctf.org/img/logos/ini.png" alt="picoCTF" width="154" height="40"/>
-</a> 
+<a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> <img src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="picoCTF" width="40" height="40"/> </a> 
+<a href="https://picoctf.org" target="_blank"> <img src="https://picoctf.org/img/logos/ini.png" alt="picoCTF" width="154" height="40"/> </a> 
 </p>
 
-<code>PicoCTF Gym Score: 2370
-Challenges Solved: 26
+<code>PicoCTF Gym Score: <a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> 2370 </a> 
+Challenges Solved: <a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> 26 </a>
 </code>
 
 <!-- 
