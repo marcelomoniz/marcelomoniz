@@ -38,8 +38,9 @@
 </a> 
 </p>
 
-Gym Score: 2370
+<code>PicoCTF Gym Score: 2370
 Challenges Solved: 26
+</code>
 
 <!-- 
 geradores
