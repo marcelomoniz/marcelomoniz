@@ -25,13 +25,20 @@
 ### Devops
 <p align="left"> 
 <a href="https://www.jenkins.io" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>  
 </a> 
 </p>
 
 ## Cybersecurity
-### PicoCTF - CTF (Capture The Flag) by Carnegie Mellon University
-https://play.picoctf.org/users/marcelomoniz
+### CTF (Capture The Flag)
+<p align="left"> 
+<a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> 
+  <img src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="picoCTF" width="40" height="40"/> CTF (Capture The Flag) by Carnegie Mellon University
+</a> 
+</p>
+
+Gym Score: 2370
+Challenges Solved: 26
 
 <!-- 
 geradores
