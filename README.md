@@ -12,7 +12,7 @@
 <br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/marcelo-moniz) www.linkedin.com/in/marcelo-moniz
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz)](https://github.com/marcelomoniz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&amp;layout=compact&amp;theme=chartreuse-dark&amp;langs_count=8)](https://github.com/marcelomoniz/github-readme-stats)
 
 # Skills
 <!--h3 align="left">Languages and Tools:</h3-->
