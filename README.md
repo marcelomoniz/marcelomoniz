@@ -7,10 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&amp;layout=compact&amp;theme=chartreuse-dark&amp;langs_count=8)](https://github.com/marcelomoniz/github-readme-stats)
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/marcelo.moniz.png" alt="Your Image Badge" />](https://tryhackme.com/r/p/marcelo.moniz) 
-[<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1172922" alt="Your Image Badge" />](https://tryhackme.com/r/p/marcelo.moniz) 
-
 [<img src="https://tryhackme-badges.s3.amazonaws.com/marcelo.moniz.png" alt="Your Image Badge" />](https://tryhackme-badges.s3.amazonaws.com/marcelo.moniz.png) 
-[<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1172922" alt="Your Image Badge" />](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1172922) 
+[<img src="https://tryhackme-badges.s3.amazonaws.com/marcelo.moniz.png" alt="Your Image Badge" />](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1172922) 
 
 # Skills
 <!--h3 align="left">Languages and Tools:</h3-->
