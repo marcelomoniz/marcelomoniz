@@ -4,7 +4,7 @@
 <br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' />](www.linkedin.com/in/marcelo-moniz) www.linkedin.com/in/marcelo-moniz
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&amp;layout=compact&amp;theme=chartreuse-dark&amp;langs_count=8)](https://github.com/marcelomoniz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&amp;layout=compact&amp;theme=chartreuse-dark&amp;langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz)
 
 
 [<img src="https://assets.tryhackme.com/img/THMlogo.png" alt="Your Image Badge" height='80' />](https://tryhackme.com/r/p/marcelo.moniz) [<img src="https://tryhackme-badges.s3.amazonaws.com/marcelo.moniz.png" alt="Your Image Badge" />](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1172922) 
