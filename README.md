@@ -31,6 +31,15 @@ Challenges Solved: <a href="https://play.picoctf.org/users/marcelomoniz" target=
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&layout=donut&theme=tokyonight&custom_title=Top%20Languages%20by%20Commit&langs_count=5)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=marcelomoniz&theme=tokyonight&hide_border=true&locale=pt_BR)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomoniz&theme=nord_dark)
+...
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelomoniz&theme=nord_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelomoniz&theme=nord_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelomoniz&theme=nord_dark&utcOffset=-3)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelomoniz&show_icons=true&theme=tokyonight)
+
 <!-- 
 geradores
 https://rahuldkjain.github.io/gh-profile-readme-generator/
