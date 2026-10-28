@@ -29,6 +29,8 @@
 Challenges Solved: <a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> 26 </a>
 </code>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&layout=donut&theme=tokyonight&custom_title=Top%20Languages%20by%20Commit&langs_count=5)
+![GitHub Streak](https://streak-stats.demolab.com/?user=marcelomoniz&theme=tokyonight&hide_border=true&locale=pt_BR)
 <!-- 
 geradores
 https://rahuldkjain.github.io/gh-profile-readme-generator/
