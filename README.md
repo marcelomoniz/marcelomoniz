@@ -29,15 +29,17 @@
 Challenges Solved: <a href="https://play.picoctf.org/users/marcelomoniz" target="_blank"> 26 </a>
 </code>
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelomoniz&theme=nord_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&layout=donut&theme=tokyonight&custom_title=Top%20Languages%20by%20Commit&langs_count=5)
+<!-- ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelomoniz&theme=nord_dark)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomoniz&layout=donut&theme=tokyonight&custom_title=Top%20Languages%20by%20Commit&langs_count=5)
+ -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=marcelomoniz&theme=tokyonight&hide_border=true&locale=pt_BR)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomoniz&theme=nord_dark)
 ...
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelomoniz&theme=nord_dark)
+<!-- ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelomoniz&theme=nord_dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelomoniz&show_icons=true&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelomoniz&theme=nord_dark&utcOffset=-3)
+-->
+
 
 <!-- 
 geradores
